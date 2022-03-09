@@ -1,0 +1,8 @@
+.my-card{
+    float: left;
+    background-color: rgb(209, 208, 208);
+    width: calc((100% / 3) - 2rem);
+    margin: 1rem;
+    text-align: center;
+    border-radius: 1rem;
+}
